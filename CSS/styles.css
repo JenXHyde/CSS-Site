@@ -1,6 +1,7 @@
 body {
   margin: 0;
   border: 0;
+  padding: 0; 
  background-color: #92BA92;
 }
 
@@ -20,6 +21,7 @@ p {
   border-top: 25px;
   margin: 0;
   padding:5px;
+  border:0;
   line-height: 1;
   font-family: "Quicksand";
   color: #94B49F;
@@ -34,7 +36,7 @@ h3 {
   color: #839AA8;
   position: relative;
   text-align: center;
-  border-top:0; border-bottom:0;
+  border:0;
   margin:0;
   padding: 15px;
 }
@@ -53,6 +55,7 @@ h4
   padding: 25px;
   margin: 10;
   text-align: center;
+  border:0;
 }
 .ArcadeFire
 {font-family: "Sacramento";
