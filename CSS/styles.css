@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  border: 0;
+  background-color: #92BA92;
+}
+
+h1 {
+  font-family: "Sacramento";
+  font-weight: 100;
+  color: #85586F;
+  font-size: 100px;
+  padding: 40px;
+  margin: 0;
+  border: 0;
+  line-height: 1;
+  text-align: center;
+}
+
+p {
+  border-top: 25px;
+  margin: 0;
+  padding:5px;
+  line-height: 1;
+  font-family: "Quicksand";
+  color: #94B49F;
+  font-size: 2.6rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 35px;
+  color: #839AA8;
+  position: relative;
+  text-align: center;
+  border-top:0; border-bottom:0;
+  margin:0;
+  padding: 15px;
+}
+
+hr
+{border:#92BA92; }
+
+a href {
+  text-align: center;
+}
+h4
+{color:#A0BCC2; font-family: "Indie Flower"; line-height: 1.5; padding: 20px; border:0; margin:0;}
+.bonjour {
+  color: #51557E;
+  font-family: "Indie Flower";
+  padding: 25px;
+  margin: 10;
+  text-align: center;
+}
+.ArcadeFire
+{font-family: "Sacramento";
+color: #DEB6AB;
+border-top:0; border-bottom: 0; margin-bottom:0;}
+
+.top-container {
+  margin: 0;
+  border-top: 0;
+  background-color: #F9EBC8;
+  height: 135%;
+  width: 100%;
+}
+
+.hedgehog {
+  background-color: #F9EBC8;
+  margin-bottom: 30px;
+  position: relative;
+  left: 500px;
+  margin-top: 50px;
+}
+
+.hedgehogs {
+  background-color: #F9EBC8;
+  margin-bottom: 30px;
+  position: relative;
+  right: 50px;
+  margin-top: 50px;
+}
+
+.hedgehogtwo {
+  background-color: #F9EBC8;
+  margin-bottom: 30px;
+  position: relative;
+  left: 275px;
+  margin-top: 50px;
+}
+
+.middle-container {
+  background-color: #FEFBE7;
+  height: 200%;
+  width: 100%;
+  top: 10px;
+  border-top: 0;
+}
+
+.me {
+  height: 300px;
+  width:250px;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+  margin-top: 0;
+  border-top:0;
+  padding: 20px;
+}
+
+.skills {
+  background-color: #DEB6AB;
+  height: 200%;
+  border-top:0;
+}
+
+.fox {
+  float: left;
+  height: 450px;
+  bottom: 75px;
+  border-top:0;
+}
+
+.bottom-container {
+  background-color: #A0BCC2;
+  height: 200%;
+  width: 100%;
+  border-top:0;
+  text-align: center;
+}
+
+.color {
+  font-family: "Quicksand";
+  line-height: 2;
+  font-size: 2rem;
+  color: #FEFBE7;
+}
+.Website
+{font-family: "Quicksand"; text-decoration:none;
+line-height: 2;
+font-size: 2rem;
+color: #FEFBE7;
+text-align: center;}
+.sources {
+  background-color: #DAE5D0;
+  height: 75px;
+  width: 100%;
+  text-align: center;
+}
+.Website:hover
+{color:#DEB6AB;}
+
+.Stickers
+{font-family: "Sacramento";
+color: #FFEEEE; text-decoration:none;}
+
+.Stickers:hover{color: #DEB6AB;}
