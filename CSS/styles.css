@@ -1,6 +1,7 @@
 body {
   margin: 0;
   border: 0;
+ background-color: #92BA92;
 }
 
 h1 {
@@ -72,7 +73,7 @@ border-top:0; border-bottom: 0; margin-bottom:0;}
   display: block;
  margin-left: auto;
  margin-right: auto;
- width: 50%;  margin-top: 50px;
+ margin-top: 50px;
 }
 
 
