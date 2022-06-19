@@ -78,16 +78,14 @@ border-top:0; border-bottom: 0; margin-bottom:0;}
 .hedgehogs {
   background-color: #F9EBC8;
   margin-bottom: 30px;
-  position: absolute;
-  right: 50px;
+  float:right;
   margin-top: 50px;
 }
 
 .hedgehogtwo {
   background-color: #F9EBC8;
   margin-bottom: 30px;
-  position: absolute;
-  left: 275px;
+  float: left;
   margin-top: 50px;
 }
 
